@@ -1,7 +1,9 @@
-<video autoplay loop muted playsinline>
-    <source src="https://drive.google.com/file/d/1mwZ9HqreLscTl11t4nHBAe2IYfUAJrGh/view?usp=sharing" type="video/webm">
-    <source src="video.mp4" type="video/mp4">
 
-    Your browser does not support HTML5 video.       
-    <a href="/animated.gif">Click here to view original GIF</a>
+<div id="header" align="center">
+  <video width="480" controls poster="https://archive.org/download/WebmVp8Vorbis/webmvp8.gif" >
+  <source src="https://archive.org/download/WebmVp8Vorbis/webmvp8_512kb.mp4" type="video/mp4">
+  <source src="https://archive.org/download/WebmVp8Vorbis/webmvp8.ogv" type="video/ogg">
+  <source src="https://archive.org/download/WebmVp8Vorbis/webmvp8.webm" type="video/webm">
+  Your browser doesn't support HTML5 video tag.
 </video>
+</div>
