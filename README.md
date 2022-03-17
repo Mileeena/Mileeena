@@ -1,3 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rDy3YQLxjq7TBjKSxC/giphy.gif" width="220"/>
 </div>
+<div id="https://t.me/votahs">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+</div>
