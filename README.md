@@ -15,5 +15,5 @@
 - :seal:
 - :mailbox:How to reach me: 
 - - [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/votahs)
-- - [![Mail Badge](https://img.shields.io/badge/Mail-purple?logo=Yahoo&logoColor=white)](mailto:ask@htmlbook.ru)
+- - [![Mail Badge](https://img.shields.io/badge/Mail-purple?logo=Yahoo&logoColor=white)](mailto:shatov_alexandr@yahoo.com)
  
