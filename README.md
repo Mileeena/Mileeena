@@ -10,4 +10,6 @@
 ---
 
  ### :man_technologist: About Me : 
- I am a Backend C# .NET Developer from khabarovsk
+ I am a Backend C# .NET Developer
+ I'm a 2nd year student at KnASTU
+ 
