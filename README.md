@@ -6,5 +6,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
+
 ---
-### :woman_technologist: About Me :
+
+ ### :man_technologist: About Me : 
+ I am a Backend C# .NET Developer from khabarovsk
