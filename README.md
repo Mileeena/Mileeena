@@ -9,7 +9,11 @@
 
 ---
 
- ### :man_technologist: About Me : 
- I am a Backend C# .NET Developer
- I'm a 2nd year student at KnASTU
+### :man_technologist: About Me : 
+- :llama:My name is Sasha
+- :frog:I'm a beginner a Backend C# .NET Developer
+- :seal:
+- :mailbox:How to reach me: 
+- - [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/votahs)
+- - [![Mail Badge](https://img.shields.io/badge/Mail-purple?logo=Yahoo&logoColor=white)](mailto:ask@htmlbook.ru)
  
