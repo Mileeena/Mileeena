@@ -5,6 +5,7 @@
 ## :man_technologist: Обо мне
 - Шатов Александр
 - C# .NET Developer
+- Студент КнАГУ, прикладная информатика в экономике
 ## :mailbox:Как со мной связаться (How to reach me)
 - [Telegram](https://t.me/votahs)
 - shatov_alexandr@yahoo.com
