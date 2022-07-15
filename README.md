@@ -11,7 +11,7 @@
 - shatov_alexandr@yahoo.com
  
 ## :hammer_and_wrench: Skills
-C# / ASP.NET Core / T-SQL / MongoDb / Entity Framework Core / SignalR / WPF / AvaloniaUi / LiveCharts2 / HTML / CSS / JS / Postman / Fody
+C# / ASP.NET Core / T-SQL / MongoDb / Entity Framework Core / SignalR / WPF / AvaloniaUi / LiveCharts2 / HTML / CSS / TS / JS / Postman / Fody
 
 ## ⚡Всякое
 - [Победа в хакатоне «Moscow City Hack 2022», команда SkillTeam](https://t.me/MoscowCityHack/11056)
