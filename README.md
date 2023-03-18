@@ -14,4 +14,4 @@
 C# / ASP.NET Core / T-SQL / MongoDb / Entity Framework Core / SignalR / WPF / AvaloniaUi / LiveCharts2 / HTML / CSS / TS / JS / Postman / Fody / GitHub Actions / Docker
 
 ## ⚡Всякое
-- [Победа в хакатоне «Moscow City Hack 2022», команда SkillTeam](https://t.me/MoscowCityHack/11056)
+- [Победа в хакатоне «Moscow City Hack 2022», команда SkillTeam](https://moscityhack2022.innoagency.ru/05/)
